@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ProjetGretaCoutureKotlin</string>
+    <string name="selected_item">Taille choisie : </string>
+
+    <string-array name="Sizes">
+        <item>XXS / 32 (EUR)</item>
+        <item>XS / 34 (EUR)</item>
+        <item>S / 36 (EUR)</item>
+        <item>M / 38 (EUR)</item>
+        <item>L / 40 (EUR)</item>
+        <item>XL / 42 (EUR)</item>
+        <item>XXL / 44 (EUR)</item>
+    </string-array>
+</resources>
